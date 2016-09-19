@@ -47,7 +47,7 @@ local.properties
 # PDT-specific
 .buildpath
 
-# sbteclipse plugin 
+# sbteclipse plugin
 .target
 
 # TeXlipse plugin
@@ -86,3 +86,7 @@ release.properties
 ### IDEA ###
 *.iml
 .idea/
+
+
+### NODE ###
+node_modules/
