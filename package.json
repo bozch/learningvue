@@ -1,0 +1,22 @@
+{
+  "name": "vuedemo",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "author": "bozch",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^1.0.26",
+    "vue-router": "^0.7.13"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "webpack": "^1.13.2"
+  }
+}
