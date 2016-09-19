@@ -90,3 +90,4 @@ release.properties
 
 ### NODE ###
 node_modules/
+dist/
